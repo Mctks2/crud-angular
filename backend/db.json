@@ -2,21 +2,27 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Aprendendo Angular",
-      "autoria": "Joaquim",
+      "conteudo": "Você só pode derrotar a si mesmo.",
+      "autoria": "Pantheon",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Aprendendo Angular 2",
-      "autoria": "Joaquim",
+      "conteudo": "Alguém tem um... isqueiro?",
+      "autoria": "Ziggs",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Aprendendo Angular 3",
-      "autoria": "Joaquim",
+      "conteudo": "Conforto gera fraqueza.",
+      "autoria": "Rengar",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Pensamento teste",
+      "autoria": "Dev Angular",
+      "modelo": "modelo1",
+      "id": 4
     }
   ]
 }
