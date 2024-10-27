@@ -12,14 +12,14 @@
       "conteudo": "Alguém tem um... isqueiro?",
       "autoria": "Ziggs",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Conforto gera fraqueza.",
       "autoria": "Rengar",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Pensamento teste",
