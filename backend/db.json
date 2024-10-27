@@ -4,55 +4,36 @@
       "id": 1,
       "conteudo": "Você só pode derrotar a si mesmo.",
       "autoria": "Pantheon",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Alguém tem um... isqueiro?",
       "autoria": "Ziggs",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Conforto gera fraqueza.",
       "autoria": "Rengar",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "Pensamento teste",
       "autoria": "Dev Angular",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
-      "conteudo": "             ",
-      "autoria": "w",
-      "modelo": "modelo1",
-      "id": 5
-    },
-    {
-      "conteudo": "Hey",
-      "autoria": "Thiago",
-      "modelo": "modelo1",
-      "id": 6
-    },
-    {
-      "conteudo": "Hey!",
-      "autoria": "Thiago",
-      "modelo": "modelo1",
+      "conteudo": "Em um Cosmo em constante mudança, um mundo estático como esse é revigorante.",
+      "autoria": "Aurelion Sol",
+      "modelo": "modelo2",
+      "favorito": false,
       "id": 7
-    },
-    {
-      "conteudo": "hey!",
-      "autoria": "kkk",
-      "modelo": "modelo1",
-      "id": 8
-    },
-    {
-      "conteudo": "sasa",
-      "autoria": "sasasa",
-      "modelo": "modelo1",
-      "id": 9
     }
   ]
 }

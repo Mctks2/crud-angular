@@ -20,18 +20,16 @@ export class CriarPensamentoComponent implements OnInit {
 
   ngOnInit(): void {
     this.formulario = this.formBuilder.group({
-      conteudo: [
-        '',
-        Validators.compose([
+      conteudo: ['', Validators.compose([
           Validators.required,
           Validators.pattern(/(.|\s)*\S(.|\s)*/),
         ]),
       ],
-      autoria: [
-        '',
-        Validators.compose([Validators.required, Validators.minLength(3)]),
+      autoria: ['',Validators.compose([
+        Validators.required, Validators.minLength(3)]),
       ],
       modelo: ['modelo1'],
+      favorito: [false],
     });
   }
 
